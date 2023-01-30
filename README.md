@@ -1,7 +1,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroLuisDionisioFraga&bg_color=0d1117&color=ff4d00&line=ff4d00&point=3700ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLuisDionisioFraga&show_icons=true&count_private=true&hide_border=true&title_color=ff4d00&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Dimitri github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLuisDionisioFraga&show_icons=true&count_private=true&hide_border=true&title_color=ff4d00&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisDionisioFraga&layout=compact&hide_border=true&title_color=ff4d00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
@@ -20,8 +20,8 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=007FFF&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)&nbsp;
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)&nbsp;
 <!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
