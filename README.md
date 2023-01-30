@@ -14,14 +14,16 @@
   <a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/pedro-luis-810a08213"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-  
+ 
 ### Main skills:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp; 
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" heignt="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" heignt="60"/>
+ </div>
 
 ### Studying in this moment:
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)&nbsp;
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)&nbsp;
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="70" heignt="70"padding="20"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" heignt="70"/>
+</div>
 <!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
