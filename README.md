@@ -10,8 +10,8 @@
 </p>
 
 <div align="center"> 
-<a href="https://instagram.com/pedro_dionisio49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pedro_dionisio49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   
 ### Main skills:
@@ -21,9 +21,9 @@
 ### Studying in this moment:
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=007FFF&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
-
+<!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroLuisDionisioFraga}/count.svg" /></p> 
 <br>
-</div>
+</div>-->
