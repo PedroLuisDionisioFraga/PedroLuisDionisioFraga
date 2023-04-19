@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLuisDionisioFraga&show_icons=true&count_private=true&hide_border=true&title_color=ff4d00&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisDionisioFraga&layout=compact&hide_border=true&title_color=ff4d00&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisDionisioFraga&layout=compact&hide_border=true&title_color=ff4d00&count_private=true&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
