@@ -1,4 +1,5 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroLuisDionisioFraga&bg_color=0d1117&color=ff4d00&line=ff4d00&point=3700ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLuisDionisioFraga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLuisDionisioFraga&show_icons=true&count_private=true&hide_border=true&title_color=ff4d00&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> 
