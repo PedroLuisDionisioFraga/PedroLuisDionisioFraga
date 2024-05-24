@@ -1,5 +1,5 @@
 <!-- Introduction to me -->
-<div>
+<div> <!-- TDOD: Trsnsform it in a row with CSS -->
   <!-- Gif to Relax -->
   <img align="right" width=45% src="Assets/pc-without-bg.gif">
   <!-- Others Links -->
@@ -16,7 +16,9 @@
   - ☕ I Love Coffee;
 </div>
 
-<div align="center"><h2>My Work</h2></div>
+-----------------------
+
+<div align="center"><h2>🖥️ My Work</h2></div>
 
 <!-- Activity graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLuisDionisioFraga&theme=tokyo-night&line=ff793f&title_color=ff6a2a)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -33,13 +35,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PedroLuisDionisioFraga&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&count_private=true"/>
 </p>
 
-<div align="center"> <!--
-  <a href="https://instagram.com/pedro_dionisio49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white"</a> -->
-  <a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/pedro-luis-810a08213"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-### Work Experience
+### 🧑🏼‍💼 Work Experience
 In the overview below you will find my most recent work experience:
 
 <!-- Internship in Nouvenn -->
@@ -54,13 +50,13 @@ Languages ​​& Technologies: `C/C++`, `Embedded Linux`, `Simplicity Studio`, 
 <!-- Monitor of Laboratory in Inatel -->
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://iot-labs.io/wp-content/uploads/2023/05/Logo-Inatel.png"/>]([https://www.spacex.com/](https://inatel.br/home/))
 
-**Firmware Development** \
-[**INATEL**]((https://inatel.br/home/)) • Monitor of Laborator \
+**Monitor of Laborator** \
+[**INATEL**]((https://inatel.br/home/)) • J.P. \
 Subjects Taughts: `Microcontrollers and Microprocessors System`, `Good laboratory practices`, `Analog Electronic II and III`, `OOP in Java` and `Python Introduction`\
 <br/>
 
  
-### Main Skills:
+### 👨🏼‍💻 Main Skills:
 In descending order and category:
 
 #### Programming Languages:
@@ -124,3 +120,11 @@ In descending order and category:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroLuisDionisioFraga}/count.svg" /></p> 
 <br>
 </div>-->
+
+### Contact Mt
+<div align="center"> <!--
+  <a href="https://instagram.com/pedro_dionisio49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white"</a> -->
+  <a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/pedro-luis-dionisio-fraga/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://github.com/PedroLuisDionisioFraga"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
