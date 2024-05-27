@@ -1,20 +1,25 @@
 <!-- Introduction to me -->
-<div> <!-- TDOD: Trsnsform it in a row with CSS -->
-  <!-- Gif to Relax -->
-  <img align="right" width=45% src="Assets/pc-without-bg.gif">
+<div style="display: flex; flex-direction: row; align-items: center; width: 100%;">
+  <!-- Gif to Relax (324 / 175) -->
+  <img align="right" height=196.02px width="105.875" src="Assets/pc-without-bg.gif">
   <!-- Others Links -->
   <!-- https://i.pinimg.com/originals/56/25/df/5625df8d2147f6b160f1ef13bd4b8ff5.gif -->
   <!-- https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2108b1128233439.615236a4da3da.gif -->
 
-  <!-- Resume -->
-  <h3 align="left">Hi 👋, I'm Pedro Luis Dionísio Fraga</h3>
+  <!-- Spacer -->
+  <div style="flex-grow: 1;"></div>
   
-  - 💻 I'm a Firmware Development;
-  - 🧑🏼‍🎓 Student of INATEL;
-  - 🧑🏼‍🏫 Laboratory Monitor at INATEL;
-  - 🏎️ Car Enthusiast;
-  - ☕ I Love Coffee;
+  <!-- Resume -->
+  <h3>Hi 👋, I'm Pedro Luis Dionísio Fraga</h3>
+  <ul>
+    <li>💻 I'm a Firmware Development;</li>
+    <li>🧑🏼‍🎓 Student of INATEL;</li>
+    <li>🧑🏼‍🏫 Laboratory Monitor at INATEL;</li>
+    <li>🏎️ Car Enthusiast;</li>
+    <li>☕ I Love Coffee;</li>
+  </ul>
 </div>
+
 
 -----------------------
 
@@ -121,10 +126,10 @@ In descending order and category:
 <br>
 </div>-->
 
-### Contact Mt
-<div align="center"> <!--
+### Contact Me
+<div style="display: flex; flex-direction: row; align-items: center;"> <!--
   <a href="https://instagram.com/pedro_dionisio49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white"</a> -->
-  <a href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/pedro-luis-dionisio-fraga/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://github.com/PedroLuisDionisioFraga"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a style="margin-right: 5px;" href = "mailto:pedrodfraga@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" target="_blank"></a>
+  <a style="margin-right: 5px;" href = "https://www.linkedin.com/in/pedro-luis-dionisio-fraga/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a style="margin-right: 5px;" href = "https://github.com/PedroLuisDionisioFraga"> <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
