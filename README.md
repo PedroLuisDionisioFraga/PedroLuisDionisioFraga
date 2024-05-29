@@ -1,7 +1,7 @@
 <!-- Introduction to me -->
 <div style="display: flex; flex-direction: row; align-items: center; width: 100%;">
   <!-- Gif to Relax (324 / 175) -->
-  <img align="right" height=196.02px width="105.875" src="Assets/pc-without-bg.gif">
+  <img align="right" height=178.2px width="196.25" src="Assets/pc-without-bg.gif">
   <!-- Others Links -->
   <!-- https://i.pinimg.com/originals/56/25/df/5625df8d2147f6b160f1ef13bd4b8ff5.gif -->
   <!-- https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2108b1128233439.615236a4da3da.gif -->
