@@ -40,7 +40,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PedroLuisDionisioFraga&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&count_private=true"/>
 </p>
 
-### 🧑🏼‍💼 Work Experience
+### 💼 Work Experience
 In the overview below you will find my most recent work experience:
 
 <!-- Internship in Nouvenn -->
