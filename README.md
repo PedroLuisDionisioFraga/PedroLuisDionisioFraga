@@ -47,7 +47,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://assets-global.website-files.com/63f8f8609e56aaacd69d9bb7/640703f46fe5f33ef30f903f_nouvenn-logo.svg"/>](https://www.nouvenn.com/)
 
 **Firmware Development** \
-[**Nouvenn**](https://www.nouvenn.com/) • Internship \
+[**Nouvenn**](https://www.nouvenn.com/) • Internship -> Junior Analyst \
 Languages ​​& Technologies: `C/C++`, `Embedded Linux`, `Simplicity Studio`, `STM32 Cube IDE`, `Python`,\
 <!-- Featured projects: -->
 <br/>
