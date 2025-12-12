@@ -65,7 +65,7 @@ Subjects Taughts: `Microcontrollers and Microprocessors System`, `Good laborator
 In descending order and category:
 
 #### Programming Languages:
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/add-cloudrun-icon/icons/c/c-original.svg" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"/></code>
