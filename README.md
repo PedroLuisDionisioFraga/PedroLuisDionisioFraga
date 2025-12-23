@@ -12,10 +12,10 @@
   <!-- Resume -->
   <h3>Hi 👋, I'm Pedro Luis Dionísio Fraga</h3>
   <ul>
-    <li>💻 I'm a Firmware Development;</li>
-    <li>🧑🏼‍🎓 Student of INATEL;</li>
-    <li>🧑🏼‍🏫 Laboratory Monitor at INATEL;</li>
-    <li>🏎️ Car Enthusiast;</li>
+    <li>💻 Firmware Development;</li>
+    <li>🧑🏼‍🎓 Computer Enginner at INATEL;</li>
+    <li>🌐 Student of Cybersecurity;</li>
+    <li>🏎️ Car Enthusiast;</li>  
     <li>☕ I Love Coffee;</li>
   </ul>
 </div>
@@ -31,7 +31,6 @@
 <div align="center">
   <!-- Stats  -->
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=PedroLuisDionisioFraga&show_icons=true&count_private=true&title_color=ff4d00&icon_color=1a1ab27&text_color=c9d1d9&bg_color=1a1b27&hide_border=true" alt="Pedro GitHub Stats"/>
-
   <!-- Streak -->
   <img width="48%" height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=PedroLuisDionisioFraga&theme=tokyonight&ring=ff793f&currStreakNum=white&sideNums=white&border=1a1b27&card_height=205"/>
 </div>
@@ -42,26 +41,23 @@
 
 ### 💼 Work Experience
 In the overview below you will find my most recent work experience:
-
 <!-- Internship in Nouvenn -->
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://assets-global.website-files.com/63f8f8609e56aaacd69d9bb7/640703f46fe5f33ef30f903f_nouvenn-logo.svg"/>](https://www.nouvenn.com/)
-
 **Firmware Development** \
 [**Nouvenn**](https://www.nouvenn.com/) • Internship -> Junior Analyst \
-Languages ​​& Technologies: `C/C++`, `Embedded Linux`, `Simplicity Studio`, `STM32 Cube IDE`, `Python`,\
+Languages ​​& Technologies: `C/C++`, `Embedded Linux`, `Shell/bash`, `NGINX`, `ESP32`, `Silicon Labs`, `STM32`, `Python`,
 <!-- Featured projects: -->
 <br/>
 
 <!-- Monitor of Laboratory in Inatel -->
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://iot-labs.io/wp-content/uploads/2023/05/Logo-Inatel.png"/>]([https://www.spacex.com/](https://inatel.br/home/))
-
+[<img align="left" height="100px" width="94px" alt="Warpnet" src="https://iot-labs.io/wp-content/uploads/2023/05/Logo-Inatel.png"/>]([https://www.spacex.com/](https://inatel.br/home/))
 **Monitor of Laborator** \
 [**INATEL**]((https://inatel.br/home/)) • J.P. \
-Subjects Taughts: `Microcontrollers and Microprocessors System`, `Good laboratory practices`, `Analog Electronic II and III`, `OOP in Java` and `Python Introduction`\
+Subjects Taughts: `Microcontrollers and Microprocessors System`, `Good laboratory practices`, `Digital Electronic I`, `Analog Electronic II and III`, `OOP in Java` and `Python Introduction`
 <br/>
 
  
-### 👨🏼‍💻 Main Skills:
+### 👨🏼‍💻 Main Skills
 In descending order and category:
 
 #### Programming Languages:
